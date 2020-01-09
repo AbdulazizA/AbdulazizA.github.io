@@ -113,7 +113,7 @@ header .navbar ul li a.active::before{
 /* Home Set Up*/
 .home{
 	min-height: 100vh;
-	background-image: url("C:/Users/aziza/OneDrive/University/Web Portfolio/Images/1.jpg");
+	background-image: url("Images/1.jpg");
 	background-size:cover;
 	background-position: center;
 	padding: 15px;
