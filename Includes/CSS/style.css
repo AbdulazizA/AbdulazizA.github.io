@@ -891,12 +891,12 @@ footer .social a:hover{
 	border: 1px solid #eeeeee
 }
 
-@media(max-width: 991px){
+@media (max-width: 991px){
 	.home .home-content .block h1{
 		font-size: 50px;
 	}
 }
-@media(max-width: 767px){
+@media (max-width: 767px){
 	.home .home-content .block h1{
 		font-size: 40px;
 	}
@@ -954,6 +954,11 @@ footer .social a:hover{
 	}
 	.about-me .about-content .text .info .list p{
 		flex: 0 0 100%;
+		font-size: 11px;
+	}
+	.about-me .about-content .text .info .list label{
+		flex: 0 0 100%;
+		font-size: 14px;
 	}
 	.my-resume .my-resume-content .box {
 		background-color: #ffffff;
@@ -1003,7 +1008,7 @@ footer .social a:hover{
 		max-width: 100%;
 	}
 }
-@media(max-width: 500px){
+@media (max-width: 500px){
 	.home .home-content .block h1{
 		font-size: 30px;
 	}
